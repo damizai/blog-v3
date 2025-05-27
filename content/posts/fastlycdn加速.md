@@ -6,6 +6,8 @@ updated: 2024-10-15 00:00:00
 image: https://serv.200038.xyz/2024/09/19/993800.webp
 categories: [经验分享]
 tags: [代码, FastlyCDN, Cloudflare]
+# tags:
+_path: /posts/af99
 
 recommend: 4
 ---

@@ -7,6 +7,7 @@ image: https://serv.200038.xyz/2024/10/29/089211.webp
 categories: [经验分享]
 tags: [Umami, Cloudflare, API]
 # tags:
+_path: /posts/bcd2
 
 recommend: 10
 ---

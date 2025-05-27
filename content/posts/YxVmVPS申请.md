@@ -7,6 +7,7 @@ image: https://serv.200038.xyz/2025/04/05/688458.webp
 categories: [经验分享]
 tags: [VPS, YxVm]
 # tags:
+_path: /posts/96a0
 
 recommend: 11
 ---

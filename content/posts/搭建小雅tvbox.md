@@ -6,6 +6,9 @@ updated: 2024-10-08 00:00:00
 image: https://serv.200038.xyz/2024/09/19/578021.webp
 categories: [经验分享]
 tags: [代码, 小雅Alist, TVbox, VPS]
+# tags:
+_path: /posts/21c2
+
 recommend: 2
 ---
 

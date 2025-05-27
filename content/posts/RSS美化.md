@@ -7,7 +7,6 @@ image: https://biu.200038.xyz/2025/04/26/660779.webp
 categories: [经验分享]
 tags: [代码, 前端, RSS美化]
 # tags:
-_path: /posts/47bc
 
 recommend: 5
 ---
